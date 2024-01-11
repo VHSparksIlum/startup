@@ -1,3 +1,3 @@
 test text
 
-now with git #2
+now with git #2 once more with feeling #3

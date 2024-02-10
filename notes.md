@@ -6,3 +6,5 @@
 ### IP Address
 [54.159.49.142](http://54.159.49.142/)
 Access > ssh -i ~/filepath/webserver.pem ubuntu@54.159.49.142
+
+em and px are not the same. em is magical, px are easier but less precise
